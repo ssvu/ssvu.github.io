@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.seis.cf/tags/alist/</loc>
+    <lastmod>2023-05-11T15:11:42+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/posts/alist/</loc>
+    <lastmod>2023-05-11T15:11:42+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/posts/</loc>
+    <lastmod>2023-05-11T15:11:42+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/</loc>
+    <lastmod>2023-05-11T15:11:42+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/tags/</loc>
+    <lastmod>2023-05-11T15:11:42+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/tags/test/</loc>
+    <lastmod>2023-05-11T15:11:42+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/about/</loc>
+    <lastmod>2023-05-11T05:19:37+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/posts/hello-world/</loc>
+    <lastmod>2023-05-11T15:11:28+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.seis.cf/categories/</loc>
+  </url>
+</urlset>
